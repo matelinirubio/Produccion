@@ -27,7 +27,13 @@ Fuentes: posts de Instagram @cascarafoods jul–oct 2026 (vía Metricool) y ~60 
 - Azana: guatita, hinchazón, "desbloquea tu bienestar digestivo", "alimento real para tu microbiota", "25g de fibra al día".
 - Marca: "rescatamos lo mejor de la fruta", upcycling, "ESA ES LA IDEA 🍏🚀".
 
-## Horarios (Instagram, hora Chile)
-- Nuestros posts 11:00–12:30: memes mediana ≈29k de alcance; carruseles ≈18k (13–15h similar). Publicaciones 21–23h: carruseles ≈13k (peor).
-- Actividad de seguidores (Metricool): sube toda la mañana, pico 19–21h.
-- Facebook: pico 10:00–12:00.
+## Horarios (hora Chile)
+> Ojo: Metricool entrega la fecha y hora de los posts en **UTC**. Hay que pasarla a hora de Chile antes de analizar (UTC-3 en horario de verano, UTC-4 en invierno).
+
+- Histórico jul–nov 2026, alcance mediano en Instagram:
+  - **Mañana 08:00–10:00** (la franja más constante): reels ≈15,5k (10 posts), carruseles ≈17,7k (6), memes ≈28,6k (7).
+  - **Mediodía 10:00–14:00**: reels ≈11k (3), carruseles ≈11,6k (5; los del 5-nov y 12-nov sacaron 7k y 3,5k), memes ≈37k (2).
+  - **Noche 18:00–22:00**: reels ≈11k (8), carruseles ≈10k (2). El meme viral de 640k salió a las 19:40.
+- Actividad de seguidores según Metricool: sube toda la mañana y tiene su pico entre las 20:00 y las 21:00.
+- Facebook: pico entre las 10:00 y las 12:00 los días de semana; el fin de semana baja cerca de un 30%.
+- TikTok: picos a las 10:00, 12:00 y 18:00.
