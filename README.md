@@ -21,6 +21,7 @@ Repo de trabajo para el posteo orgánico de Cáscara en Facebook, Instagram y Ti
 - **Facebook**: acepta PNG del CDN de Shopify con `&width=1440`. Máximo 8 MB; relación de aspecto entre 4:5 y 1.91:1.
 - **TikTok**: máximo 2.073.600 píxeles (1080×1920). Se usa `&width=1080` (1080×1350).
 - **Videos**: el enlace directo de Drive funciona en Instagram (Reel), Facebook (video) y TikTok: `https://drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t`. Probado el 17-11-2026 con un MP4 4:5 de 42 s y 58 MB.
+- **Portada personalizada de un reel**: Buffer no la permite; solo deja elegir un fotograma del video (`thumbnailOffset`). Para usar una imagen de portada se programa en **Metricool** (`createScheduledPost` con `videoThumbnailUrl`), que tiene conectados Instagram y Facebook (TikTok no). Metricool guarda su propia copia del video y de la portada, así que no depende de que Drive siga público. Usado el 18-11-2026.
 - **Historias con sticker de link (Instagram)**: no se pueden publicar solas. Van en modo aviso: llega una notificación a la app de Buffer y se publica a mano poniendo el sticker. Sin sticker sí se publican solas.
 - **Historias de Facebook**: se publican solas y no llevan link.
 - Los posts se crean en hora Chile, con offset explícito (`-03:00` en horario de verano).
