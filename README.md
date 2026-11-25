@@ -26,3 +26,4 @@ Repo de trabajo para el posteo orgánico de Cáscara en Facebook, Instagram y Ti
 - **Historias de Facebook**: se publican solas y no llevan link.
 - **Varios posts seguidos en el mismo canal**: si van separados por 1 minuto, Buffer puede publicarlos unos minutos tarde. El 18-11-2026, dos historias de Facebook programadas a las 12:01 y 12:02 salieron a las 12:08. No es un error y no hay que tocarlas; si se intenta forzar la publicación mientras Buffer las está enviando, responde 403.
 - Los posts se crean en hora Chile, con offset explícito (`-03:00` en horario de verano).
+- **Carpetas de Drive**: la búsqueda de archivos de una carpeta viene paginada (a veces de a 5). Siempre seguir el `nextPageToken` hasta el final y confirmar cuántas láminas hay antes de programar. El 25-11-2026 el carrusel de Black Friday salió sin la lámina 6 (creatina 3x2) por no revisar la segunda página.
