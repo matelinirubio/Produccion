@@ -28,3 +28,8 @@ Hay un aviso programado en Claude para cada tanda y otro el miércoles 2 a las 2
    - Facebook `5c3ce84393235d7d9326fdba`: `metadata.facebook = {type: "story"}`.
    - Para ambos: `schedulingType: automatic`, `mode: customScheduled`, `dueAt` del plan, sin texto. Las imágenes llevan `altText`.
 5. Si algo no cabe porque no hay cupo, dejarlo para la tanda siguiente y avisar.
+
+## Reel de inicio (viernes 27-11, 10:00)
+- Video: AD_NOV_101 vertical con dos cambios. La caja "7 sabores…" ahora dice "¡Empezó el Black Friday! hasta 45% OFF", y al cierre se agregó "Solo hasta el miércoles 2/12". Está en Drive, en la carpeta `reels` (`REEL_inicio_black_friday.mp4`, id `1W2Abl9bOXtRAlUpYE1Vwa-UkAsUMOq_X`).
+- Copy A. En Facebook va con link directo a cascarafoods.cl.
+- TikTok quedó programado el jueves en la noche. Instagram y Facebook los programa un aviso a las 9:20 del viernes, cuando se liberan cupos.
