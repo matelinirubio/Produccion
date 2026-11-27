@@ -13,7 +13,7 @@ El plan de Buffer permite máximo 10 posts programados por canal, así que las h
 | Tanda | Historias | Desde → hasta | Cuándo se sube |
 |---|---|---|---|
 | 1 | 1–10 | vie 27, 9:15 → sáb 28, 16:31 | jue 26 en la noche (hecho) |
-| 2 | 11–20 | sáb 28, 20:15 → lun 30, 8:31 | sáb 28, 16:45 |
+| 2 | 11–20 | sáb 28, 20:15 → lun 30, 8:31 | sáb 28, 18:00 (antes 16:45; se movió por las historias de Chocolate Naranja) |
 | 3 | 21–30 | lun 30, 12:45 → mar 1, 20:46 | lun 30, 8:45 |
 | 4 | 31–38 | mié 2, 8:00 → mié 2, 21:31 | mar 1, 21:00 |
 
@@ -33,3 +33,9 @@ Hay un aviso programado en Claude para cada tanda y otro el miércoles 2 a las 2
 - Video: AD_NOV_101 vertical con dos cambios. La caja "7 sabores…" ahora dice "¡Empezó el Black Friday! hasta 45% OFF", y al cierre se agregó "Solo hasta el miércoles 2/12". Está en Drive, en la carpeta `reels` (`REEL_inicio_black_friday.mp4`, id `1W2Abl9bOXtRAlUpYE1Vwa-UkAsUMOq_X`).
 - Copy A. En Facebook va con link directo a cascarafoods.cl.
 - TikTok quedó programado el jueves en la noche. Instagram y Facebook los programa un aviso a las 9:20 del viernes, cuando se liberan cupos.
+
+## Volvió el stock: Chocolate Naranja (viernes 27 y sábado 28)
+- Creativos del equipo (Drive `18DhURY-MnqKhJvwUvEELmbtyvD5s1PlX`): H_AD_NOV_choconaranja_1 a 4, en formato historia.
+- Instagram y Facebook en historia: 1 y 2 el viernes 27 a las 18:30 y 18:31, 3 y 4 el sábado 28 a las 17:45 y 17:46.
+- TikTok: Buffer no publica historias en TikTok, así que va un post de fotos con dos láminas. Las láminas 1 y 2 salen el viernes a las 18:30 con el copy "Sí, VOLVIÓ…", y la 3 y la 4 el sábado a las 17:45 con el copy "¿Team chocolate o team naranja?…".
+- Estas historias usan cupos de Buffer, por eso la tanda 2 de Black Friday se sube a las 18:00 del sábado, cuando ya salieron.
