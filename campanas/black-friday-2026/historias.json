@@ -48,14 +48,6 @@
    "url": "https://lh3.googleusercontent.com/d/1dyfOjzqLSqL51jjx7n91ScgoUeorBUhC=w1080-rj"
   },
   {
-   "n": 6,
-   "dueAt": "2026-11-27T20:31:00-03:00",
-   "pieza": "H_Bombita_Shaker_black · video",
-   "tipo": "video",
-   "drive_id": "1WJhmRMlCCPu7YhWotyxsW5kvuxl-itLS",
-   "url": "https://drive.usercontent.google.com/download?id=1WJhmRMlCCPu7YhWotyxsW5kvuxl-itLS&export=download&confirm=t"
-  },
-  {
    "n": 7,
    "dueAt": "2026-11-28T10:30:00-03:00",
    "pieza": "V2 · Finde Black",
@@ -86,14 +78,6 @@
    "tipo": "image",
    "drive_id": "1PUjBkUBqV8YsW8sv0QHX_gVGiDTcIa4O",
    "url": "https://lh3.googleusercontent.com/d/1PUjBkUBqV8YsW8sv0QHX_gVGiDTcIa4O=w1080-rj"
-  },
-  {
-   "n": 11,
-   "dueAt": "2026-11-28T20:15:00-03:00",
-   "pieza": "H_Bombita_Shaker_black_2 · Shaker gratis sobre $20.000",
-   "tipo": "image",
-   "drive_id": "1sWCs9M_LCeq0u8mb4FDPQFaEKp1q2lZJ",
-   "url": "https://lh3.googleusercontent.com/d/1sWCs9M_LCeq0u8mb4FDPQFaEKp1q2lZJ=w1080-rj"
   },
   {
    "n": 12,
@@ -288,14 +272,6 @@
    "url": "https://drive.usercontent.google.com/download?id=1fn2EPIERN8TfNVSD17lT-kQABI6MTpka&export=download&confirm=t"
   },
   {
-   "n": 36,
-   "dueAt": "2026-12-02T19:01:00-03:00",
-   "pieza": "H_Bombita_Shaker_black_2 · Shaker gratis sobre $20.000",
-   "tipo": "image",
-   "drive_id": "1sWCs9M_LCeq0u8mb4FDPQFaEKp1q2lZJ",
-   "url": "https://lh3.googleusercontent.com/d/1sWCs9M_LCeq0u8mb4FDPQFaEKp1q2lZJ=w1080-rj"
-  },
-  {
    "n": 37,
    "dueAt": "2026-12-02T21:30:00-03:00",
    "pieza": "V8 · Últimas horas",
@@ -310,6 +286,26 @@
    "tipo": "image",
    "drive_id": "1qdx79OtFMTWsAUT0SwdqToTAUj075558",
    "url": "https://lh3.googleusercontent.com/d/1qdx79OtFMTWsAUT0SwdqToTAUj075558=w1080-rj"
+  }
+ ],
+ "canceladas": [
+  {
+   "n": 6,
+   "dueAt": "2026-11-27T20:31:00-03:00",
+   "pieza": "H_Bombita_Shaker_black · video",
+   "motivo": "Se canceló la promo del shaker gratis (bombita), 27-11-2026"
+  },
+  {
+   "n": 11,
+   "dueAt": "2026-11-28T20:15:00-03:00",
+   "pieza": "H_Bombita_Shaker_black_2 · Shaker gratis sobre $20.000",
+   "motivo": "Se canceló la promo del shaker gratis (bombita), 27-11-2026"
+  },
+  {
+   "n": 36,
+   "dueAt": "2026-12-02T19:01:00-03:00",
+   "pieza": "H_Bombita_Shaker_black_2 · Shaker gratis sobre $20.000",
+   "motivo": "Se canceló la promo del shaker gratis (bombita), 27-11-2026"
   }
  ]
 }

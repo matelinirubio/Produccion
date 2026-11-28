@@ -1,6 +1,6 @@
 # Black Friday 2026 · historias
 
-Black Friday del miércoles 25-11 al miércoles 2-12-2026. Son 38 historias para Instagram y Facebook, publicadas con Buffer. Se publican solas y no llevan sticker de link.
+Black Friday del miércoles 25-11 al miércoles 2-12-2026. Son 38 historias para Instagram y Facebook (36 después de cancelar la bombita del shaker), publicadas con Buffer. Se publican solas y no llevan sticker de link.
 
 - `historias.json`: el plan completo. Cada historia tiene su número, la hora (`dueAt`, en hora de Chile), la pieza, el tipo (imagen o video) y la URL pública que se le pasa a Buffer.
 - Imágenes: `lh3.googleusercontent.com/d/<ID>=w1080-rj`, en JPG de 1080×1920.
@@ -39,3 +39,7 @@ Hay un aviso programado en Claude para cada tanda y otro el miércoles 2 a las 2
 - Instagram y Facebook en historia: 1 y 2 el viernes 27 a las 18:30 y 18:31, 3 y 4 el sábado 28 a las 17:45 y 17:46.
 - TikTok: Buffer no publica historias en TikTok, así que va un post de fotos con dos láminas. Las láminas 1 y 2 salen el viernes a las 18:30 con el copy "Sí, VOLVIÓ…", y la 3 y la 4 el sábado a las 17:45 con el copy "¿Team chocolate o team naranja?…".
 - Estas historias usan cupos de Buffer, por eso la tanda 2 de Black Friday se sube a las 18:00 del sábado, cuando ya salieron.
+
+## Bombita "Shaker gratis sobre $20.000": cancelada (viernes 27-11, 21:55)
+- No se hace la promo. Se sacaron del plan las historias 11 (sábado 20:15) y 36 (miércoles 19:01), las dos `H_Bombita_Shaker_black_2`. Quedan anotadas en `canceladas` dentro de `historias.json`.
+- La historia 6 (video `H_Bombita_Shaker_black`) ya se publicó el viernes a las 20:31 en Instagram y Facebook. Buffer no puede borrar algo publicado, así que hay que borrarla a mano en las apps.
