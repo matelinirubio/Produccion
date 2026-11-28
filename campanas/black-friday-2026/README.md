@@ -43,3 +43,4 @@ Hay un aviso programado en Claude para cada tanda y otro el miércoles 2 a las 2
 ## Bombita "Shaker gratis sobre $20.000": cancelada (viernes 27-11, 21:55)
 - No se hace la promo. Se sacaron del plan las historias 11 (sábado 20:15) y 36 (miércoles 19:01), las dos `H_Bombita_Shaker_black_2`. Quedan anotadas en `canceladas` dentro de `historias.json`.
 - La historia 6 (video `H_Bombita_Shaker_black`) ya se publicó el viernes a las 20:31 en Instagram y Facebook. Buffer no puede borrar algo publicado, así que hay que borrarla a mano en las apps.
+- El shaker gratis por pack sigue vigente ("Shaker gratis por este pack" o "+ Un Shaker Gratis"). Las historias con ese sello se mantienen. Lo confirmó el usuario el 27-11.
